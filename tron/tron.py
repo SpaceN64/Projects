@@ -2,7 +2,8 @@
 # Requires SPGL Version 0.8 or Above
 # SPGL Documentation on Github: https://wynand1004.github.io/SPGL
 # Use this as the starting point for your own games
-NOTE: THIS IS A STUDENT PROJECT - SHARED WITH PERMISSION
+
+# NOTE: THIS IS A STUDENT PROJECT - SHARED WITH PERMISSION
 
 # Import SPGL
 import spgl
